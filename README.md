@@ -66,7 +66,16 @@ RegisterNumber:
 Logic symbol & Truthtable
 RTL realization
 Output:
+![CODE](https://github.com/INFANTINA1401/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147313821/ef8f5695-ce46-4f3e-a511-ba4c57af3b43)
+![WAVEFORM](https://github.com/INFANTINA1401/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147313821/62fd3c53-5acb-4000-9be7-26047c71e466)
+
+
 RTL
+![LOGIC GATE](https://github.com/INFANTINA1401/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147313821/cee8621a-5854-49d7-b9ad-bea29d9656c0)
+
+TIMELINE 
+![TIMELINE](https://github.com/INFANTINA1401/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147313821/8d2ae9ea-65ce-4315-8642-005e607e28b4)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
